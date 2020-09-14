@@ -5,11 +5,11 @@
 import math
 
 def square_root(a: float) -> float:
-    return math.sq(a)
+    return math.sqrt(a)
 
 
 def square(a: float) -> float:
-    return math.square(a)
+    return math.pow(a,
 
 
 def average(a: float, b: float, c: float) -> float:
